@@ -218,3 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 pavetrack_data.json 
 uploads/
+.env
+.env.local
+.env.development
+.env.production
